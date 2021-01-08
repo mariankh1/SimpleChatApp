@@ -1,4 +1,4 @@
-# Simple Chat Andoird App Using Google Firebase 
+# Simple Chat Andoird App + on the Cloud processing functions -  Using Google Firebase 
 
 FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
 
