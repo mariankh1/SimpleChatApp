@@ -3,8 +3,7 @@
 FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
 Also, it includes a firebase function (on the  cloud)  that changes text to emojis!
 
-
-![Screenshot](screenshot.png)
+<img src="screenshot.png" width="100" height="300">
 
 ## Declaration
 
