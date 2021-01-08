@@ -3,7 +3,7 @@
 FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
 
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## Declaration
 
